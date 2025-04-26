@@ -1,15 +1,21 @@
-# data-bootcamp-batch11
+# Data Science Bootcamp Batch11
 My data science and analytic projects
 
 ## My personal projects
-1. SQL supermarket analysis
-2. SQL churn analysis
-3. R programming
-4. Dashboard
-5. Linear Regression Model using caret
+1. Google Sheets
+2. SQL supermarket analysis
+3. SQL churn analysis
+4. R programming
+5. Dashboard
+6. Linear Regression Model using caret
+7. Machine Learning
+8. Statistics
+9. Websit with Wordpress
+10. Python
+11. Dashboard
 
 ## Contact Me
-reach out to me
+email: reach out to me
 
 ## Image
 
