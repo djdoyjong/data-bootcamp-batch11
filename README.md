@@ -10,7 +10,7 @@ My data science and analytic projects
 6. Linear Regression Model using caret
 7. Machine Learning
 8. Statistics
-9. Websit with Wordpress
+9. Website with Wordpress
 10. Python
 11. Dashboard
 
